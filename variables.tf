@@ -1,3 +1,3 @@
-variables "azurerm_subnet_name" {}
-variables "azurerm_virtual_network_name" {}
-variables "azurerm_virtual_network_location" {}
+variable "azurerm_subnet_name" {}
+variable "azurerm_virtual_network_name" {}
+variable "azurerm_virtual_network_location" {}
